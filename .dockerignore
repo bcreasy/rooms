@@ -1,0 +1,7 @@
+Makefile
+Dockerfile
+node_modules
+.dockerignore
+.gitignore
+.*.swp
+.git

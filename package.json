@@ -1,0 +1,13 @@
+{
+  "name": "rooms",
+  "version": "0.0.1",
+  "description": "Room Explorer",
+  "author": "genetik <genetik@caffeine.nu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "text-commander": "2.0"
+  }
+}
